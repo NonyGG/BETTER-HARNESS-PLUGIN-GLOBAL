@@ -11,5 +11,5 @@
     "lint": "node scripts/lint.mjs",
     "typecheck": "tsc --noEmit -p tsconfig.json"
   },
-  "devDependencies": { "tsx": "^4", "typescript": "^5", "@types/node": "^22" }
+  "devDependencies": { "tsx": "^4", "typescript": "^7", "@types/node": "^22" }
 }
